@@ -60,17 +60,47 @@ The system processes the following data:
 
 
 ---
-
 ## **Screenshots**
-![System Overview](https://github.com/Jeyapragash1/On-Vote/blob/main/img/1.png "")
-![Features](https://github.com/Jeyapragash1/On-Vote/blob/main/img/2.png "")
-![Workflow](https://github.com/Jeyapragash1/On-Vote/blob/main/img/3.png "")
-![Input Data](https://github.com/Jeyapragash1/On-Vote/blob/main/img/4.png "")
-![Benefits](https://github.com/Jeyapragash1/On-Vote/blob/main/img/5.png "")
-![Login Screen](https://github.com/Jeyapragash1/On-Vote/blob/main/img/6.png "")
-![Login Screen](https://github.com/Jeyapragash1/On-Vote/blob/main/img/7.png "")
-![Technologies](https://github.com/Jeyapragash1/On-Vote/blob/main/img/8.png "")
 
+<div align="center">
+  <img src="https://github.com/Jeyapragash1/On-Vote/blob/main/img/1.png" alt="System Overview" width="70%" style="border: 2px solid #ddd; border-radius: 10px; margin: 10px;">
+  <p><b>System Overview</b></p>
+</div>
+
+<div align="center">
+  <img src="https://github.com/Jeyapragash1/On-Vote/blob/main/img/2.png" alt="Features" width="70%" style="border: 2px solid #ddd; border-radius: 10px; margin: 10px;">
+  <p><b>Features</b></p>
+</div>
+
+<div align="center">
+  <img src="https://github.com/Jeyapragash1/On-Vote/blob/main/img/3.png" alt="Workflow" width="70%" style="border: 2px solid #ddd; border-radius: 10px; margin: 10px;">
+  <p><b>Workflow</b></p>
+</div>
+
+<div align="center">
+  <img src="https://github.com/Jeyapragash1/On-Vote/blob/main/img/4.png" alt="Input Data" width="70%" style="border: 2px solid #ddd; border-radius: 10px; margin: 10px;">
+  <p><b>Input Data</b></p>
+</div>
+
+<div align="center">
+  <img src="https://github.com/Jeyapragash1/On-Vote/blob/main/img/5.png" alt="Benefits" width="70%" style="border: 2px solid #ddd; border-radius: 10px; margin: 10px;">
+  <p><b>Benefits</b></p>
+</div>
+
+<div align="center">
+  <img src="https://github.com/Jeyapragash1/On-Vote/blob/main/img/6.png" alt="Login Screen 1" width="70%" style="border: 2px solid #ddd; border-radius: 10px; margin: 10px;">
+  <p><b>Login Screen</b></p>
+</div>
+
+<div align="center">
+  <img src="https://github.com/Jeyapragash1/On-Vote/blob/main/img/7.png" alt="Login Screen 2" width="70%" style="border: 2px solid #ddd; border-radius: 10px; margin: 10px;">
+  <p><b>Another Login Screen</b></p>
+</div>
+
+<div align="center">
+  <img src="https://github.com/Jeyapragash1/On-Vote/blob/main/img/8.png" alt="Technologies" width="70%" style="border: 2px solid #ddd; border-radius: 10px; margin: 10px;">
+  <p><b>Technologies</b></p>
+</div>
 
 ---
 
