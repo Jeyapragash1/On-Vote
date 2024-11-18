@@ -1,9 +1,10 @@
 # On-Vote
 
-# Computerized Voting System
+## **Computerized Voting System**
 
-## **Overview**
 The Computerized Voting System is a Java-based project designed to modernize traditional voting processes. It provides a secure, efficient, and user-friendly electronic voting platform, offering improvements in accessibility, security, and transparency.
+
+
 
 ---
 
@@ -13,6 +14,8 @@ The Computerized Voting System is a Java-based project designed to modernize tra
 - **Security**: Uses encryption, secure storage, and audit trails to ensure data integrity.
 - **Convenience**: Allows online voting from any location.
 - **Transparency**: Maintains a detailed audit trail for accountability.
+
+
 
 ---
 
@@ -24,6 +27,8 @@ The Computerized Voting System is a Java-based project designed to modernize tra
 5. **Final Count**: Tally all votes and declare results.
 6. **Audit Trail**: Maintain logs for transparency.
 
+
+
 ---
 
 ## **Input Data**
@@ -34,12 +39,15 @@ The system processes the following data:
 - Birth Year
 - New Voter Registration Details
 
+
+
 ---
 
 ## **Technologies Used**
 - **Programming Language**: Java
 - **Graphical User Interface (GUI)**: Swing or JavaFX for a user-friendly experience.
 - **Database**: MySQL for managing voter and candidate information.
+
 
 ---
 
@@ -49,12 +57,27 @@ The system processes the following data:
 - **Accessibility**: Accommodates a wider range of users.
 - **Cost-Effectiveness**: Reduces the need for paper ballots and manual processes.
 
+
+
+---
+
+## **Screenshots**
+![System Overview](https://github.com/Jeyapragash1/On-Vote/blob/main/img/1.png "")
+![Features](https://github.com/Jeyapragash1/On-Vote/blob/main/img/2.png "")
+![Workflow](https://github.com/Jeyapragash1/On-Vote/blob/main/img/3.png "")
+![Input Data](https://github.com/Jeyapragash1/On-Vote/blob/main/img/4.png "")
+![Benefits](https://github.com/Jeyapragash1/On-Vote/blob/main/img/5.png "")
+![Login Screen](https://github.com/Jeyapragash1/On-Vote/blob/main/img/6.png "")
+![Login Screen](https://github.com/Jeyapragash1/On-Vote/blob/main/img/7.png "")
+![Technologies](https://github.com/Jeyapragash1/On-Vote/blob/main/img/8.png "")
+
+
 ---
 
 ## **Contact**
 For questions or contributions, contact:
 - **Email**: kishojeyapragash15@gmail.com 
-- **GitHub**: github.com/jeyapragash1
+- **GitHub**: [Jeyapragash1](https://github.com/jeyapragash1)
 
 ---
 
